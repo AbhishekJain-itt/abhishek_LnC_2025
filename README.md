@@ -34,7 +34,7 @@ The comment repeats exactly what the code already states.
 Resolution:
 Removed the comment and relied on clear code.
 
-2. Noise Comments
+### 2. Noise Comments
 
 Example:
 
@@ -47,7 +47,7 @@ Adds no new information beyond the method name.
 Resolution:
 Removed in favor of expressive method naming.
 
-3. TODO / Placeholder Comments
+### 3. TODO / Placeholder Comments
 
 Example:
 
@@ -59,7 +59,7 @@ Lacks context, intent, or ownership.
 Resolution:
 Replaced with proper validation logic or removed.
 
-4. Historical / Attribution Comments
+### 4. Historical / Attribution Comments
 
 Example (Before):
 
@@ -71,7 +71,7 @@ Version control systems already track authorship and history.
 Resolution:
 Removed completely.
 
-5. Emotional or Emphasized Comments
+### 5. Emotional or Emphasized Comments
 
 Example (Before):
 
@@ -83,7 +83,7 @@ Emotion does not explain intent.
 Resolution:
 Replaced with clear, structured code.
 
-6. Obvious Comments
+### 6. Obvious Comments
 
 Example (Before):
 
